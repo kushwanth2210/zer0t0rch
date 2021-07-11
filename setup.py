@@ -15,7 +15,7 @@ setup(
     long_description=open('README.md').read() + '\n\n' +
     open('CHANGELOG.txt').read(),
     url='',
-    author='zEro',
+    author='zer0sh0t',
     author_email='',
     license='MIT',
     classifiers=classifiers,
